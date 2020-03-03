@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/svns.iml" filepath="$PROJECT_DIR$/svns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitdema.iml" filepath="$PROJECT_DIR$/gitdema.iml" />
     </modules>
   </component>
 </project>
